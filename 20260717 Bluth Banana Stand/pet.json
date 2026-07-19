@@ -1,0 +1,7 @@
+{
+  "id": "bluth-banana-stand",
+  "displayName": "Bluth Banana Stand",
+  "description": "The Bluth banana stand stays perfectly still—until failure sends hidden money flying from the walls as it burns down.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
